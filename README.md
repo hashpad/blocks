@@ -1,4 +1,4 @@
-# Tiler: Photo Mosaic Generator
+# blocks: Photo Mosaic Generator
 
 ## Overview
 
